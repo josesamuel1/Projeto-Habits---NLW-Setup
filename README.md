@@ -1,0 +1,1 @@
+Projeto Habits, exclusivamente criado pela Rocketseat no seu evento NLW-Setup, onde os mesmos ensinam como fazer um site WEB de monitoramento de hábitos diários para usuários.
